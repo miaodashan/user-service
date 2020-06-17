@@ -1,0 +1,5 @@
+com\vplus\demo\userconsume\pojo\User.class
+com\vplus\demo\userconsume\UserConsumeApplication.class
+com\vplus\demo\userconsume\controller\ConsumerController.class
+com\vplus\demo\userconsume\service\UserService.class
+com\vplus\demo\userconsume\dao\UserDao.class

@@ -1,0 +1,13 @@
+com\vplus\demo\userservice\core\TkMapper.class
+com\vplus\demo\userservice\core\MyMapper.class
+com\vplus\demo\userservice\configurer\MybatisConfigurer.class
+com\vplus\demo\userservice\core\ProjectConstant.class
+com\vplus\demo\userservice\mapper\UserMapper.class
+com\vplus\demo\userservice\Service\impl\AbstractService.class
+com\vplus\demo\userservice\UserServiceApplication.class
+com\vplus\demo\userservice\Service\impl\UserServiceImpl.class
+com\vplus\demo\userservice\controller\UserController.class
+com\vplus\demo\userservice\Service\BaseService.class
+com\vplus\demo\userservice\controller\DemoController.class
+com\vplus\demo\userservice\model\User.class
+com\vplus\demo\userservice\Service\UserService.class
