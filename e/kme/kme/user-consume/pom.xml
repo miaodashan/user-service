@@ -49,7 +49,7 @@
         <dependency>
             <groupId>org.yaml</groupId>
             <artifactId>snakeyaml</artifactId>
-            <version>1.23</version>
+            <version>1.32</version>
         </dependency>
         <!--YML文件解析需要引入的snakeyaml包-->
         <dependency>
